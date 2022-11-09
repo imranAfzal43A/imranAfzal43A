@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imranAfzal43A
 - 👀 I’m interested in mobile app developement.
-- 🌱 I’m currently learning flutter.
+- 🌱 My expertise is in react native.
 - 📫 Contact with me :muhammadimran43a@gmail.com
 
 <!---
