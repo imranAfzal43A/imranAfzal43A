@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imranAfzal43A
 - 👀 I’m interested in mobile app developement.
 - 🌱 My expertise is in react native.
-- 📫 Contact with me :muhammadimran43a@gmail.com
+- 📫 Contact with me :imijutt1122@gmail.com
 
 <!---
 imranAfzal43A/imranAfzal43A is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
