@@ -1,5 +1,7 @@
 # 💫 About Me:
-React Native Expo and React Developer
+Connect with me:
+Email: imijutt1122@gmail.com
+WhatsApp: +923390695979
 
 
 ## 🌐 Socials:
